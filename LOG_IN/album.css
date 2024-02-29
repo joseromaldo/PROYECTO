@@ -1,0 +1,41 @@
+.body{
+    background-image: url(fondo_solido.jpeg);
+    background-size: cover;
+    
+}
+.titulo{
+    height: 5cm;
+    width: auto;
+    background-color: blanchedalmond;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-shadow: 2px 2px 2px;
+}
+.carretera{
+    height: 3cm;
+    width: 30cm;
+}
+.div-tabla{
+    height: 20cm;
+    width: 10cm;
+    right: 5cm;
+    
+}
+.tabla{
+    border-color: black;
+    border-style: groove;
+    color: antiquewhite;
+
+}
+#margen{
+border-style: solid;
+border-width: 1cm;
+border-color: black;
+}
+.regreso{
+    font-size: larger;
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

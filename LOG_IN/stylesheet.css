@@ -1,0 +1,39 @@
+.fondo{
+    width: 100%; /* Ancho del contenedor */
+  height: 100vh; /* Altura del contenedor*/
+  background-image: url('fondo_login.jpeg'); /* Ruta de la imagen de fondo */
+  background-size: cover; /* Ajusta el tamaño de la imagen para cubrir todo el contenedor */
+  background-position: center; /* Centra la imagen horizontal y verticalmente */
+  color: white; /* Cambia el color del texto para que sea legible sobre la imagen */
+  text-align: center; /* Alinea el contenido en el centro */
+  padding: 20px; /* Espaciado interno del contenedor */
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: larger;
+  text-shadow: 1px 1px 1px;
+  display: flex; /* Utiliza flexbox para alinear el contenido */
+  justify-content: center; /* Centra horizontalmente el contenido */
+  text-align: center;
+  
+
+}
+.datos{
+    padding-bottom: 10px;
+    background-color: bisque; /* Color de fondo del contenedor interno */
+    padding: 10px; /* Espaciado interno */
+    width: 10cm;
+    height: 10cm;
+    color: black;
+    background-position: center;
+    text-shadow: none;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 5cm; /* Margen inferior para separar los objetos */
+    border: 1px solid #ccc;
+    filter: blur(0.5px); /* Aplicar difuminado */
+    box-shadow: 10px 10px 10px;
+}
+
+.usuario{
+    width: 50px;
+    height: 50px;
+}

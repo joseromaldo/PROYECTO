@@ -1,0 +1,62 @@
+#body{
+    background-color: rgb(176, 201, 201);
+}
+.titulo{
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.parrafo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    justify-content: center;
+}
+.recuadro{
+    position: relative; /* Establecer posición relativa */
+background-color: beige;
+height: 10cm;
+width: 30cm;
+align-items: center;
+justify-content: center;
+left: 4cm;
+top: 3cm;
+
+}
+.recuadro1{
+    padding: 1cm 2cm;
+    background-color: bisque;
+    height: 2cm;
+    width: 20cm;
+    align-items: center;
+}
+
+.recuadro2{
+    padding: 1cm 2cm;
+    background-color: rgb(196, 138, 66);
+    height: 2cm;
+    width: 20cm;
+}
+.fotom{
+    position: absolute; /* Establecer posición absoluta */
+  top: 0; /* Posicionar en la parte superior */
+  right: 0; /* Posicionar en la parte derecha */
+  width: 6cm;
+  height: 4cm;
+}
+.fotov{
+    position: absolute; /* Establecer posición absoluta */
+  bottom: 2cm; /* Posicionar en la parte superior */
+  right: 0; /* Posicionar en la parte derecha */
+  width: 6cm;
+  height: 4cm;
+}
+.regreso{
+    font-size: large;
+    bottom: 0;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.gif{
+    position: absolute;
+    left: 5cm;
+}

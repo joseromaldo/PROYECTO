@@ -1,0 +1,21 @@
+#body{
+    background-image: url(fondo_historia.jpeg);
+    background-size: cover;
+}
+.tabla{
+    height: 10cm;
+    width: 34cm;
+    background-color: rgb(161, 122, 122);
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    text-shadow: 1px 1px 1px;
+
+}
+.linea-tiempo{
+    width: 34cm;
+    height: 6.3cm;
+    background-color: black;
+    
+    
+}
